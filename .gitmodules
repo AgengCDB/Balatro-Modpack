@@ -1,0 +1,21 @@
+[submodule "Steamodded"]
+	path = Steamodded
+	url = https://github.com/Steamopollys/Steamodded.git
+[submodule "CardSleeves"]
+	path = CardSleeves
+	url = https://github.com/larswijn/CardSleeves
+[submodule "Balatro-Mods"]
+	path = Balatro-Mods
+	url = https://github.com/drAdrian9/Balatro-Mods
+[submodule "balatro-safety-steamodded"]
+	path = balatro-safety-steamodded
+	url = https://github.com/Zei33/balatro-safety-steamodded
+[submodule "DebugPlus"]
+	path = DebugPlus
+	url = https://github.com/WilsontheWolf/DebugPlus
+[submodule "Flower-Pot"]
+	path = Flower-Pot
+	url = https://github.com/GauntletGames-2086/Flower-Pot
+[submodule "Galdur"]
+	path = Galdur
+	url = https://github.com/Eremel/Galdur
