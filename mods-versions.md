@@ -2,8 +2,9 @@
 
 | Submodule         | link                                                 | Version  |
 |-------------------|------------------------------------------------------|----------|
-| Balatro-Mods      | https://github.com/drAdrian9/Balatro-Mods             | -        |
-| Balatro Safety Steamodded | https://github.com/Zei33/balatro-safety-steamodded | release |
+| Balatro-Mods      | https://github.com/drAdrian9/Balatro-Mods                                     | - |
+| Balatro Safety Steamodded     | https://github.com/Zei33/balatro-safety-steamodded                | release |
+| Balatro Stickers Always Shown | https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown       | v1.3.0 |
 | CardSleeves       | https://github.com/larswijn/CardSleeves               | v1.5.0   |
 | DebugPlus         | https://github.com/WilsontheWolf/DebugPlus            | v1.2.0 |
 | Flower-Pot        | https://github.com/GauntletGames-2086/Flower-Pot      | v0.7.2 |

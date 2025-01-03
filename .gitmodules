@@ -34,3 +34,6 @@
 [submodule "Saturn"]
 	path = Saturn
 	url = https://github.com/OceanRamen/Saturn
+[submodule "Balatro-Stickers-Always-Shown"]
+	path = Balatro-Stickers-Always-Shown
+	url = https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown
