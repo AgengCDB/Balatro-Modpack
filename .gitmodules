@@ -22,3 +22,15 @@
 [submodule "kcvanilla"]
 	path = kcvanilla
 	url = https://github.com/kcgidw/kcvanilla
+[submodule "MOARJokers"]
+	path = MOARJokers
+	url = https://github.com/MrSmoothieHuman1/MOARJokers
+[submodule "No-No-Joker"]
+	path = No-No-Joker
+	url = https://github.com/DeathDB1/No-No-Joker
+[submodule "paperback"]
+	path = paperback
+	url = https://github.com/GitNether/paperback
+[submodule "Saturn"]
+	path = Saturn
+	url = https://github.com/OceanRamen/Saturn
