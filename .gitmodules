@@ -37,3 +37,6 @@
 [submodule "Balatro-Stickers-Always-Shown"]
 	path = Balatro-Stickers-Always-Shown
 	url = https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown
+[submodule "TatteredDecks"]
+	path = TatteredDecks
+	url = https://github.com/Cheesy-Brik/TatteredDecks
