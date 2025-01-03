@@ -46,3 +46,12 @@
 [submodule "Fusion-Jokers"]
 	path = Fusion-Jokers
 	url = https://github.com/itayfeder/Fusion-Jokers
+[submodule "SDM_0-s-Stuff"]
+	path = SDM_0-s-Stuff
+	url = https://github.com/SDM0/SDM_0-s-Stuff/
+[submodule "toomanyjokers"]
+	path = toomanyjokers
+	url = https://github.com/cg-223/toomanyjokers
+[submodule "Cartomancer"]
+	path = Cartomancer
+	url = https://github.com/stupxd/Cartomancer
