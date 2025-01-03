@@ -43,3 +43,6 @@
 [submodule "Cosmos"]
 	path = Cosmos
 	url = https://github.com/neatoqueen/Cosmos
+[submodule "Fusion-Jokers"]
+	path = Fusion-Jokers
+	url = https://github.com/itayfeder/Fusion-Jokers

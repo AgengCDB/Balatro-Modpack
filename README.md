@@ -11,6 +11,7 @@
 | CardSleeves                       | v1.5.0            | Game mechanics                | https://github.com/larswijn/CardSleeves                           |
 | Cosmos                            | main              | Joker, Gameplay               | https://github.com/neatoqueen/Cosmos                              | https://discord.com/channels/1116389027176787968/1323374911905075302 |
 | DebugPlus                         | v1.2.0            | Debugging                     | https://github.com/WilsontheWolf/DebugPlus                        |
+| Fusion-Jokers                     | main              | Gameplay, Joker               | https://github.com/itayfeder/Fusion-Jokers                        | 
 | Flower-Pot                        | v0.7.2            |                               | https://github.com/GauntletGames-2086/Flower-Pot                  |
 | Galdur                            | v1.2              | UI                            | https://github.com/Eremel/Galdur                                  |
 | kcvanilla                         | 1.7.0             |                               | https://github.com/kcgidw/kcvanilla                               |
