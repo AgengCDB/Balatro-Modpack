@@ -19,3 +19,6 @@
 [submodule "Galdur"]
 	path = Galdur
 	url = https://github.com/Eremel/Galdur
+[submodule "kcvanilla"]
+	path = kcvanilla
+	url = https://github.com/kcgidw/kcvanilla
