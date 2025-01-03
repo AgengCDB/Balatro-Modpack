@@ -40,3 +40,6 @@
 [submodule "TatteredDecks"]
 	path = TatteredDecks
 	url = https://github.com/Cheesy-Brik/TatteredDecks
+[submodule "Cosmos"]
+	path = Cosmos
+	url = https://github.com/neatoqueen/Cosmos
