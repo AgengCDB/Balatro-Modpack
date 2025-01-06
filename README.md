@@ -15,6 +15,7 @@
 | Fusion-Jokers                     | main              | Gameplay, Joker               | https://github.com/itayfeder/Fusion-Jokers                        | 
 | Flower-Pot                        | v0.7.2            |                               | https://github.com/GauntletGames-2086/Flower-Pot                  |
 | Galdur                            | v1.2              | UI                            | https://github.com/Eremel/Galdur                                  |
+| Joker Evolution                   | 1.2.1             | Gameplay                      | https://github.com/SDM0/Joker-Evolution                           | https://discord.com/channels/1116389027176787968/1249450412143153266 |
 | kcvanilla                         | 1.7.0             |                               | https://github.com/kcgidw/kcvanilla                               |
 | MOARJokers                        | 0.4.1             | Joker & gameplay variation    | https://github.com/MrSmoothieHuman1/MOARJokers                    |
 | No No Joker                       | main              | Joker                         | https://github.com/DeathDB1/No-No-Joker                           |

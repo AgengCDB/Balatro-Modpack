@@ -55,3 +55,6 @@
 [submodule "Cartomancer"]
 	path = Cartomancer
 	url = https://github.com/stupxd/Cartomancer
+[submodule "Joker-Evolution"]
+	path = Joker-Evolution
+	url = https://github.com/SDM0/Joker-Evolution
