@@ -12,7 +12,6 @@
 | Cartomancer                       | v.4.10            | QoL                           | https://github.com/stupxd/Cartomancer |
 | Cosmos                            | main              | Joker, Gameplay               | https://github.com/neatoqueen/Cosmos                              | https://discord.com/channels/1116389027176787968/1323374911905075302 |
 | DebugPlus                         | v1.2.0            | Debugging                     | https://github.com/WilsontheWolf/DebugPlus                        |
-| Fusion-Jokers                     | main              | Gameplay, Joker               | https://github.com/itayfeder/Fusion-Jokers                        | 
 | Flower-Pot                        | v0.7.2            |                               | https://github.com/GauntletGames-2086/Flower-Pot                  |
 | Galdur                            | v1.2              | UI                            | https://github.com/Eremel/Galdur                                  |
 | Joker Evolution                   | 1.2.1             | Gameplay                      | https://github.com/SDM0/Joker-Evolution                           | https://discord.com/channels/1116389027176787968/1249450412143153266 |
