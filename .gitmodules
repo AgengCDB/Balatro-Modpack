@@ -43,9 +43,6 @@
 [submodule "Cosmos"]
 	path = Cosmos
 	url = https://github.com/neatoqueen/Cosmos
-[submodule "Fusion-Jokers"]
-	path = Fusion-Jokers
-	url = https://github.com/itayfeder/Fusion-Jokers
 [submodule "SDM_0-s-Stuff"]
 	path = SDM_0-s-Stuff
 	url = https://github.com/SDM0/SDM_0-s-Stuff/
