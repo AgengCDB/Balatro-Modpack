@@ -52,3 +52,9 @@
 [submodule "Cartomancer"]
 	path = Cartomancer
 	url = https://github.com/stupxd/Cartomancer
+[submodule "Fusion-Jokers"]
+	path = Fusion-Jokers
+	url = https://github.com/lshtech/Fusion-Jokers
+[submodule "Joker-Evolution"]
+	path = Joker-Evolution
+	url = https://github.com/SDM0/Joker-Evolution
