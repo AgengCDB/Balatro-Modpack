@@ -58,3 +58,6 @@
 [submodule "Joker-Evolution"]
 	path = Joker-Evolution
 	url = https://github.com/SDM0/Joker-Evolution
+[submodule "JimboRecords"]
+	path = JimboRecords
+	url = https://github.com/TherkLe/JimboRecords
